@@ -3,4 +3,6 @@ This project optimises existing lie detector classifier models using Genetic Alg
 
 Original project title is "Optimized Lie Detectors using Genetic Algorithm for Classifier Selection in Multi-Level Ensemble Models"
 
-I will do my best to attach all the material related to this project on this repo, as well as the references used. This repo will be featured on my blog atshayk.blogspot.com where I will explain it in more detail!
+I will do my best to make the documentation here and attach the research papers that have helped in the development of this project.
+
+This repo will be featured on [my blog](https://atshayk.blogspot.com) where I will explain it in more detail!
