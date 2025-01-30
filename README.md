@@ -1,7 +1,7 @@
 # AI-Optimised-Lie-Detector
 This project optimises existing lie detector classifier models using Genetic Algorithms, boosting performance anywhere from 2% to 10% depending on the model.
 
-Original project title is "Optimized Lie Detectors using Genetic Algorithm for Classifier Selection in Multi-Level Ensemble Models"
+Original project title is _"Optimized Lie Detectors using Genetic Algorithm for Classifier Selection in Multi-Level Ensemble Models"_
 
 I will do my best to make the documentation here and attach the research papers that have helped in the development of this project.
 
